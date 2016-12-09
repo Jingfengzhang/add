@@ -1,0 +1,14 @@
+1. http://sjz.bokanedu.com/tgr/api/index.aspx?day=4-4&type=html5
+课程体系照片出现在网页上
+2.http://sjz.bokanedu.com/tgr/api/index.aspx?day=4-5&type=bkws
+课程体系照片出现在网页上
+3.http://sjz.bokanedu.com/tgr/api/index.aspx?day=53&type=rj
+http://sjz.bokanedu.com/tgr/api/index.aspx?day=53-2&type=jy
+显示就业信息感言
+http://sjz.bokanedu.com/tgr/api/index.aspx?day=53-3&type=fj
+显示博看环境照片
+4.http://sjz.bokanedu.com/tgr/api/index.aspx?day=67&type=cache做一个新闻
+5.http://sjz.bokanedu.com/tgr/api/index.aspx?day=52-2&type=zj
+点击随机出一个中奖人
+1234567890-=qwertyuiop[]asdfghkhhggfgfghj
+1234567890-=
